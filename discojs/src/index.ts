@@ -24,3 +24,5 @@ export * from "./dataset/index.js";
 export * from "./types/index.js";
 
 export * as processing from "./processing/index.js";
+
+export * as mock from "./client/event_connection.js"
